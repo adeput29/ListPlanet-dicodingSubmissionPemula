@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListPlanet</string>
+    <string name="about_nama">Ade Putra Syamsuri</string>
+    <string name="abaout_email">adeputra.c@gmail.com</string>
+    <string name="nama_planet">Nama Planet</string>
+    <string name="deskripsi_planet">Deskripsi Planet</string>
+    <string name="mode_cardview">Mode CardView</string>
+    <string name="mode_listview">Mode ListView</string>
+    <string name="about">About</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="jarak_planet">Jarak Planet</string>
+    <string name="diameter_planet">Diameter Planet</string>
+</resources>
