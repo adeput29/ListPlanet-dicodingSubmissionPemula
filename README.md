@@ -19,11 +19,11 @@ Repositori ini dibuat untuk tujuan berbagi dan pendidikan saja. Plagiarisme tida
 4. Terdapat tombol share.
 
 ## Submission 3: GitHub User App
-Rating: ⭐⭐⭐⭐
+# Rating: ⭐⭐⭐⭐
 Ada beberapa komponen Android yang saya implementasikan pada proyek pengajuan ini:
-RecycleView
-CardView
-ListView
-ScrollView
+1. RecycleView
+2. CardView
+3. ListView
+4. ScrollView
 
 ## By Ade Putra Syamsuri
